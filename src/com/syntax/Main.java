@@ -5,9 +5,9 @@ public class Main {
         // basic structure
         CarBasics car = new CarBasics();
         car.color = "green";
-        car.number = "567890";
-        car.door = "3";
-        car.engine="34567v";
+        car.number = "34567";
+        car.door = "4";
+        car.engine="4098756c";
         System.out.println(car.color);
 
 
